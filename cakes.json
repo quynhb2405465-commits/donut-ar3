@@ -1,0 +1,106 @@
+[
+  {
+    "id": "tiramisu",
+    "name": "Tiramisu Cà Phê",
+    "price": "65.000đ",
+    "desc": "Lớp bông lan thấm espresso, kem mascarpone béo mịn, phủ cacao đắng nhẹ.",
+    "tag": "Best seller",
+    "ingredients": [
+      "Bông lan ladyfinger",
+      "Kem mascarpone",
+      "Espresso nguyên chất",
+      "Cacao nguyên chất",
+      "Trứng gà, đường",
+      "Rượu Marsala (tuỳ chọn)"
+    ],
+    "glb": "assets/models/tiramisu.glb",
+    "usdz": "assets/models/tiramisu.usdz",
+    "poster": "assets/thumbs/tiramisu.jpg"
+  },
+  {
+    "id": "red-velvet",
+    "name": "Red Velvet",
+    "price": "58.000đ",
+    "desc": "Bông lan đỏ nhung mềm ẩm, xen kẽ kem phô mai chua nhẹ.",
+    "tag": "",
+    "ingredients": [
+      "Bột mì",
+      "Bơ nhạt",
+      "Phô mai cream cheese",
+      "Bột ca cao",
+      "Buttermilk",
+      "Màu thực phẩm đỏ tự nhiên"
+    ],
+    "glb": "assets/models/red-velvet.glb",
+    "usdz": "assets/models/red-velvet.usdz",
+    "poster": "assets/thumbs/red-velvet.jpg"
+  },
+  {
+    "id": "matcha-lava",
+    "name": "Matcha Lava",
+    "price": "62.000đ",
+    "desc": "Bánh trà xanh nóng, nhân chảy socola trắng bên trong.",
+    "tag": "Mới",
+    "ingredients": [
+      "Bột trà xanh Uji",
+      "Socola trắng",
+      "Bơ, trứng",
+      "Đường, bột mì",
+      "Kem tươi"
+    ],
+    "glb": "assets/models/matcha-lava.glb",
+    "usdz": "assets/models/matcha-lava.usdz",
+    "poster": "assets/thumbs/matcha-lava.jpg"
+  },
+  {
+    "id": "mango-mousse",
+    "name": "Xoài Mousse",
+    "price": "60.000đ",
+    "desc": "Mousse xoài mát lạnh trên nền cốt dừa, topping xoài tươi.",
+    "tag": "",
+    "ingredients": [
+      "Xoài chín tự nhiên",
+      "Kem whipping",
+      "Gelatin lá",
+      "Nước cốt dừa",
+      "Đường, chanh"
+    ],
+    "glb": "assets/models/mango-mousse.glb",
+    "usdz": "assets/models/mango-mousse.usdz",
+    "poster": "assets/thumbs/mango-mousse.jpg"
+  },
+  {
+    "id": "chocolate-truffle",
+    "name": "Chocolate Truffle",
+    "price": "68.000đ",
+    "desc": "Ba lớp socola đậm đà, phủ ganache bóng gương.",
+    "tag": "",
+    "ingredients": [
+      "Socola đen 70%",
+      "Kem whipping",
+      "Bơ nhạt",
+      "Trứng gà",
+      "Đường, bột mì"
+    ],
+    "glb": "assets/models/chocolate-truffle.glb",
+    "usdz": "assets/models/chocolate-truffle.usdz",
+    "poster": "assets/thumbs/chocolate-truffle.jpg"
+  },
+  {
+    "id": "lemon-tart",
+    "name": "Lemon Tart",
+    "price": "55.000đ",
+    "desc": "Vỏ tart giòn bơ, nhân chanh dây chua ngọt hài hoà.",
+    "tag": "",
+    "ingredients": [
+      "Bột mì, bơ nhạt",
+      "Chanh vàng tươi",
+      "Trứng gà",
+      "Đường",
+      "Kem tươi"
+    ],
+    "glb": "assets/models/lemon-tart.glb",
+    "usdz": "assets/models/lemon-tart.usdz",
+    "poster": "assets/thumbs/lemon-tart.jpg"
+  }
+]
